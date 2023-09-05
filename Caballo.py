@@ -11,10 +11,14 @@ else:
 
     # Definimos los movimientos posibles del caballo en forma de L.
     movimientos = [
-        (-2, -1), (-2, 1),
-        (-1, -2), (-1, 2),
-        (1, -2), (1, 2),
-        (2, -1), (2, 1)
+        (-2, -1), 
+        (-2, 1),
+        (-1, -2), 
+        (-1, 2),
+        (1, -2), 
+        (1, 2),
+        (2, -1), 
+        (2, 1)
     ]
 
     # Iteramos a través de los movimientos posibles usando un bucle.
