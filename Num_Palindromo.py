@@ -1,6 +1,6 @@
 numero_palindromo = int(input("Ingrese un número: "))
 
-# Se convierte el número ingresado en un String
+# Se convierte el número ingresado a String
 num_str = str(numero_palindromo)
     
 # Comparamos el String con el String invertido
